@@ -1,0 +1,30 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+}
+
+canvas 
+{ 
+    background: #eee; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+#pauseGame{
+    margin: 10px auto;
+    display: block;
+    background: "#0095DD";
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+#pauseGame:hover {
+    opacity: 50%;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    color: blue;
+}
